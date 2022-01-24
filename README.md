@@ -18,6 +18,7 @@ In this project we mainly use two datasets:
 4. Which job has a brighter future?
 5. Is the difference between each experience level are huge? average job salary in USA and not USA countries are different
 6. Which factor affect our salary?
+7. How good the estimator is in 2021
 
 ## Answer of the question:
 1. Faireness:
@@ -27,6 +28,7 @@ Wage discrimination/wage disparity: An equal wage for equal work that does not l
 4. slope data
 5. hypothesis test
 6. correlation map
+7. TP, FN
 
 
 ## Problem need to ask tutor
