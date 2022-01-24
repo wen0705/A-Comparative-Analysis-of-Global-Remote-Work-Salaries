@@ -5,23 +5,28 @@ In this project we mainly use two datasets:
 - AI salaries from https://salaries.freshremote.work/download/salaries.csv
 - world dataset from geo pandas "naturalearth_lowres"
 
-### Downsides of the datasets:
-- There is no Singapore, Malta, United States Minor Outlyng Islands, and American Samoa in the world dataset
-- The jobs 'Cybersecurity Analyst' 'DevOps Architect' 'Machine Learning Engineer' and 'Linux Infrastructure Developer' are in the salary dataset 2020 but not in 2021
+## Data cleaning:
+- world dataset: change the iso3 code of United States Minor Outlyng Islands and American Samoa in USA
+- delete the  Singapore's data from salary dataset (Because there is no Singapore in world dataset)
+- select the data which occurs both in year 2020 and 2021
+- delete the job which do not use AI/ML skills
 
-### How to solve this problem:
-- we combine United States Minor Outlyng Islands, and American Samoa into USA and ignore the singapore and Malta
-- We can only ignore them 
+## Questions of the dataset:
+1. Is there a difference in wage (same job but in different location)?
+2. Which jobs earn more money?
+3. Is remote ratio disparity in different countries?
+4. Which job has a brighter future?
+5. Is the difference between each experience level are huge? average job salary in USA and not USA countries are different
+6. Which factor affect our salary?
 
-## Analysts:
-1. Preprocessing: We make the correlation map and select the sensitive factors 
-2. Faireness:
+## Answer of the question:
+1. Faireness:
 Wage discrimination/wage disparity: An equal wage for equal work that does not lead to wage discrimination and does not generate unjustified and high wage differentials within the company.
-
-
-
-
-
+2. barplot
+3. chorolepth map
+4. slope data
+5. hypothesis test
+6. correlation map
 
 
 ## Problem need to ask tutor
