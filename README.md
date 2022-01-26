@@ -25,7 +25,7 @@ In this project we mainly use two datasets:
 Wage discrimination/wage disparity: An equal wage for equal work that does not lead to wage discrimination and does not generate unjustified and high wage differentials within the company.
 2. barplot
 3. chorolepth map
-4. slope data
+4. regression?(but we only have two data)
 5. hypothesis test
 6. correlation map
 7. TP, FN
