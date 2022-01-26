@@ -12,7 +12,7 @@ In this project we mainly use two datasets:
 - delete the job which do not use AI/ML skills
 
 ## Questions of the dataset:
-1. Is there a difference in wage (same job but in different location)?
+1. Is there any difference in wage (same job but in different location)?
 2. Which jobs earn more money?
 3. Is remote ratio disparity in different countries?
 4. Which job has a brighter future?
