@@ -1,6 +1,6 @@
-# Project2022
+# Project2022 -- Data Literacy project
 
-## Data:
+## Datasets:
 In this project we mainly use two datasets:
 - AI salaries from https://salaries.freshremote.work/download/salaries.csv
 - world dataset from geo pandas "naturalearth_lowres"
@@ -20,7 +20,7 @@ In this project we mainly use two datasets:
 6. Which factor affect our salary?
 7. How good the estimator is in 2021
 
-## Answer of the question:
+## Use what method to solve the questions:
 1. Faireness:
 Wage discrimination/wage disparity: An equal wage for equal work that does not lead to wage discrimination and does not generate unjustified and high wage differentials within the company.
 2. barplot
