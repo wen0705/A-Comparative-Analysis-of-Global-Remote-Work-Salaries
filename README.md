@@ -12,17 +12,16 @@ In this project we mainly use two datasets:
 - delete the job which do not use AI/ML skills
 
 ## Questions of the dataset:
-1. Is there any difference in wage (same job but in different location)?
+1. Is there any difference in wage (same job but in different location)? 
 2. Which jobs earn more money?
 3. Is remote ratio disparity in different countries?
 4. Which job has a brighter future?
-5. Is the difference between each experience level are huge? average job salary in USA and not USA countries are different
+5. Is the difference between each experience level are huge? 
 6. Which factor affect our salary?
 7. How good the estimator is in 2021
 
 ## Use what method to solve the questions:
-1. Faireness:
-Wage discrimination/wage disparity: An equal wage for equal work that does not lead to wage discrimination and does not generate unjustified and high wage differentials within the company.
+1. Faireness: Wage discrimination/wage disparity: average job salary in USA and not USA countries are different
 2. barplot
 3. chorolepth map
 4. regression?(but we only have two data)
